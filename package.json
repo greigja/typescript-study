@@ -1,19 +1,14 @@
 {
-  "name": "understanding-typescript",
+  "name": "typescript-study",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "TypeScript Learning",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "typescript",
-    "course"
-  ],
-  "author": "Maximilian Schwarzmüller",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+  "keywords": [],
+  "author": "Josh Greig",
+  "license": "",
+  "devDependencies": {},
+  "dependencies": {}
 }
